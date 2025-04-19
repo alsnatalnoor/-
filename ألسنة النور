@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ألسنة النور | تعليم القرآن للأطفال</title>
+    <style>
+        body {
+            font-family: 'Cairo', sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+            direction: rtl;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 4px solid #0056b3;
+        }
+        nav {
+            background-color: #343a40;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+        }
+        nav a:hover {
+            color: #ffc107;
+        }
+        .hero {
+            text-align: center;
+            padding: 50px 20px;
+            background: url('https://i.imgur.com/YOUR_IMAGE.jpg') center/cover no-repeat;
+            color: white;
+        }
+        .hero h1 {
+            font-size: 40px;
+        }
+        .hero p {
+            font-size: 20px;
+        }
+        .section {
+            padding: 40px 20px;
+            text-align: center;
+        }
+        .section h2 {
+            margin-bottom: 20px;
+            color: #007bff;
+        }
+        .footer {
+            background-color: #343a40;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        .btn {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>ألسنة النور</h1>
+    <p>نور القرآن في قلوب أطفالنا</p>
+</header>
+
+<nav>
+    <a href="#about">من نحن</a>
+    <a href="#videos">دروس الفيديو</a>
+    <a href="#register">التسجيل في الحلقات</a>
+    <a href="#contact">تواصل معنا</a>
+</nav>
+
+<section class="hero">
+    <h1>أهلاً بكم في ألسنة النور</h1>
+    <p>منصة تعليم القرآن للأطفال بأسلوب ممتع وسهل</p>
+</section>
+
+<section id="about" class="section">
+    <h2>من نحن؟</h2>
+    <p>ألسنة النور تسعى لتربية جيل قرآني متخلق ومحب لكتاب الله، عبر دروس مبسطة وتفاعلية تجمع بين الحفظ والتدبر وحسن التلاوة.</p>
+</section>
+
+<section id="videos" class="section">
+    <h2>دروس الفيديو</h2>
+    <p>شاهد دروسنا على قناتنا لتعليم التجويد وقصص القرآن بأسلوب يحبه الأطفال.</p>
+    <a href="https://www.youtube.com/YOUR_CHANNEL" target="_blank" class="btn">زيارة القناة</a>
+</section>
+
+<section id="register" class="section">
+    <h2>سجّل طفلك الآن!</h2>
+    <p>انضم إلى حلقات تعليم القرآن عبر الإنترنت مع نخبة من المعلمين المتخصصين.</p>
+    <a href="https://wa.me/YOUR_NUMBER" class="btn">سجل عبر واتساب</a>
+</section>
+
+<section id="contact" class="section">
+    <h2>تواصل معنا</h2>
+    <p>للاستفسار والتسجيل اتصل بنا عبر واتساب أو بريدنا الإلكتروني.</p>
+    <p>واتساب: <a href="https://wa.me/YOUR_NUMBER">اضغط هنا</a></p>
+    <p>البريد الإلكتروني: info@alsinat-alnoor.com</p>
+</section>
+
+<div class="footer">
+    &copy; 2025 ألسنة النور - جميع الحقوق محفوظة.
+</div>
+
+</body>
+</html>
+
+
+تم تصميم موقع بسيط وجاهز لقناة "ألسنة النور"!
+هذا النموذج يحتوي على:
+
+صفحة تعريفية جذابة.
+
+روابط للحلقات ودروس الفيديو.
+
+زر تسجيل سريع عبر واتساب.
+
+قسم "من نحن" و "تواصل معنا".
+
+
+يمكنك تعديل الروابط مثل:
+YOUR_IMAGE — لصورة ترحيبية جميلة،
+https://youtube.com/@alsnatalnoor?si=R76v3jkL9s4OIFlh — رابط قناتك على يوتيوب،
+YOUR_NUMBER — رقم واتساب للتسجيل والتواصل.
+
+ 
